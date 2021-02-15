@@ -1,7 +1,7 @@
 package main
 
 import (
-	"import-cycle-example/p1"
+	"github.com/kenshin579/analyzing-import-cycle-example-go/p1"
 )
 
 func main() {

@@ -2,7 +2,7 @@ package p2
 
 import (
 	"fmt"
-	"import-cycle-example/p1"
+	"github.com/kenshin579/analyzing-import-cycle-example-go/p1"
 )
 
 type PP2 struct{}
