@@ -2,7 +2,6 @@ package p2
 
 import (
 	"fmt"
-	"github.com/kenshin579/analyzing-import-cycle-example-go/p1"
 )
 
 type pp1 interface {
